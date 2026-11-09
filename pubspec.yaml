@@ -1,0 +1,11 @@
+name: universo_app
+description: Seu Universo de Compras - 20% de lucro
+publish_to: 'none'
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+flutter:
+  uses-material-design: true
